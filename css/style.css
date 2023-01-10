@@ -1,0 +1,13 @@
+/* Style général  */
+header {
+    background-color: red;
+    height: 150px;
+    box-sizing: border-box;
+    padding: 25px;
+}
+h1, p#nava {
+    text-align: center;
+}
+p#nava {
+    font-size: x-large;
+}
